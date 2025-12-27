@@ -1,0 +1,86 @@
+# LISA – New Woman（feat. ROSALÍA）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.90] Here I go
+[00:08.77] Bangin' it, bangin' it, wanna crack these walls
+[00:10.93] Bangin' it, bangin' it, wanna echo through the halls
+[00:13.36] Pullin' up, fresh face, brand new día
+[00:15.52] Uh, Lalisa, ROSALÍA
+[00:25.02] 
+[00:17.16] Soak up
+[00:21.55] All new
+[00:25.88] So I cut
+[00:28.47] I go, go to the root
+[00:32.46] Off to bloom, yeah
+[00:41.46] 
+[00:37.98] Purple into gold
+[00:42.46] Pain has come and gone again
+[00:46.62] Walked through the fire
+[00:49.31] I rediscover
+[00:55.31] 
+[00:53.05] Hit it when I serve
+[00:54.04] Bitch, you better swerve
+[00:55.38] Revving up my, uh-uh-uh-uh-aura
+[00:57.55] Focus on my mind
+[00:58.69] Taking my time
+[00:59.92] I'm a new woman, woman
+[01:03.28] Bitch, you better swerve
+[01:04.43] Revving up my uh-uh-uh-uh-aura
+[01:06.58] Focus on my mind
+[01:07.65] Taking my time
+[01:08.63] I'm a new woman, woman
+[01:19.63] 
+[01:11.57] Face, eyes, body go wild
+[01:13.77] You want this?
+[01:14.45] I'm a new woman, woman
+[01:16.66] Eyes
+[01:17.16] I'm all about mind
+[01:18.15] You want this?
+[01:18.96] I'm a new woman
+[01:26.46] 
+[01:21.22] (Uh-uh, mmh-mmh)
+[01:24.89] Por to' lo quе soy, yo puedo frontear
+[01:26.83] No por lo que tеnga, siempre me la dan
+[01:29.25] Y mi energía inmaculá', bajo perfil y (tú 'tás fuera)
+[01:33.24] Yo vivo pa' cantar, no canto pa' vivir
+[01:35.88] Nací pura, sí
+[01:36.93] Ni una era será un flop en mi porvenir
+[01:39.62] Puta, soy la ROSALÍA, solo sé servir
+[01:43.34] La noche estrellá', así sea
+[01:47.20] Hasta la madrugá', que así sea
+[02:02.20] 
+[01:53.18] Purple into gold
+[01:57.67] Pain has come and gone again
+[02:02.02] Walked through the fire
+[02:04.53] I rediscover
+[02:10.53] 
+[02:08.22] Yo le meto duro
+[02:09.31] Sale bien seguro
+[02:10.79] Acelero mi uh-uh-uh-uh-aura
+[02:12.81] Yo estoy enfocá', no presiona na'
+[02:14.94] I'm a new woman, (new) woman
+[02:18.37] Sale bien seguro
+[02:19.45] Acelero mi uh-uh-uh-uh-aura
+[02:21.82] Yo estoy enfocá', no presiona na'
+[02:23.72] I'm a new woman, woman
+[02:34.72] 
+[02:26.68] Face, eyes, body go wild
+[02:28.79] You want this?
+[02:29.60] I'm a new woman, woman
+[02:31.73] Eyes
+[02:32.36] I'm all about mind
+[02:33.36] You want this?
+[02:34.19] I'm a new woman
+[02:41.69] 
+[02:35.82] Gimme that, gimme that Alpha, yuh
+[02:37.88] Gimme that bigger, that better, ugh
+[02:40.18] Feeding you the bloom growing out ma sleeve
+[02:42.46] Kiss from a rose, rose, what a, what a meal
+[02:44.33] Bad luck a sucker, gotta make you tougher
+[02:46.73] Tryna say you suffer
+[02:47.84] Oh, don't blame your mother
+[02:48.97] Elevate, I liberate a new frontier
+[02:51.95] I'm a new woman
+```
