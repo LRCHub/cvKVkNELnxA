@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "New Woman（feat. ROSALÍA）",
+  "base_artist": "LISA",
+  "createdAt": "2025-12-27T12:59:50.338332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/01_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/02_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA, ROSALÍA",
+      "has_synced": true,
+      "path": "select/03_New_Woman_(feat._ROSALÍA)_LISA,_ROSALÍA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA, ROSALÍA",
+      "has_synced": true,
+      "path": "select/04_New_Woman_(feat._ROSALÍA)_LISA,_ROSALÍA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/05_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LISA - NEW WOMAN feat. Rosalía (Official Music Video) (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/06_LISA_-_NEW_WOMAN_feat._Rosalía_(Official_Music_Video)_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "Video • LISA",
+      "has_synced": true,
+      "path": "select/07_New_Woman_(feat._ROSALÍA)_Video_•_LISA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/08_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/09_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/10_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/11_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/12_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/13_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/14_New_Woman_(feat._ROSALÍA)_LISA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Woman (feat. ROSALÍA)",
+      "artist": "LISA, ROSALÍA",
+      "has_synced": false,
+      "path": "select/pl_01_New_Woman_(feat._ROSALÍA)_LISA,_ROSALÍA.txt"
+    }
+  ]
+}
